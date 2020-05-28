@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-Ez itt az első változtatás. Megnézzük, mi lesz belőle.
+
+Csak így tovább. Valami csak kisül belőle.
